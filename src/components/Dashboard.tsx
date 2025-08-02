@@ -46,7 +46,7 @@ export const Dashboard: React.FC = () => {
               <div className="w-8 h-8 bg-slate-900 rounded-lg flex items-center justify-center">
                 <CheckCircleIcon className="w-5 h-5 text-white" />
               </div>
-              <h1 className="text-xl font-bold text-slate-900">Smart Todo</h1>
+              <h1 className="text-xl font-bold text-slate-900">Smart Todo222</h1>
             </div>
             
             <div className="flex items-center gap-4 text-sm text-slate-500">
